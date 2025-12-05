@@ -6,3 +6,4 @@ class Payment:
 
     def display_payment(self):
         print(f"Payment ID: {self.payment_id}, User ID: {self.user_id}, Amount: ${self.amount}")
+# Change in payment.py
